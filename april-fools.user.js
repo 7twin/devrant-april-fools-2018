@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  convert all scores to binary
 // @author       7twin
+// @match        https://devrant.com/feed/*
 // @match        https://devrant.com/rants/*
 // @grant        none
 // ==/UserScript==
